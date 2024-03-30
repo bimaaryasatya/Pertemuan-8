@@ -5,3 +5,4 @@ Pada gerbang boarding pass penumpang tersebut wajib memiliki kode booking yang s
 
 ### FLOWCHART
 
+<img width="1547" alt="Flowchart Homework" src="https://github.com/bimaaryasatya/lat_py/assets/145569118/9d657893-1929-4cfa-b9f0-c85aded3b835">
